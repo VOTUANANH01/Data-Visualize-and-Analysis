@@ -110,3 +110,5 @@
 
 - In the pick up barplot of tip amount, we can see the highest bar is East Harlem North, and the lowest bar is Washington Heights South visually. On the contrast, the height of 3 bar in drop-off barplot seems to lower when compares to pick-up barplot. And it is equal to each other, which is harder to identify the differences. And the highest bar is alike to pick-up barplot, but the lowest is unlike, which is Upper East Side North.
 - The pick-up zone of total barplot have 2 of 3 bar identical to tip amount, include the highest bar - East Harlem North. The difference here is the lowest bar, Central Harlem. The drop-off zone barplot also has smaller height than the pick-up zone and the height is almost equal. While the highest bar still remain: East Harlem North, the lowest one is East Harlem South.
+### PowerBI:
+![](https://github.com/VOTUANANH01/Data-Visualize-and-Analysis/blob/c11d729f4c5270e3feac80c1aca3abde39eb5385/picture/powerBI.png)
