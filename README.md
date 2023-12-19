@@ -64,8 +64,10 @@
 - In some boxplots between location variables and total_amount, we can see a slight difference between drop-off and pick-up on the distribution values. But on the time variables, there is no difference between pick-up and drop-off.
   
 ### comparison between Time variables and tip_amount, total_amount:
+
 - lineplot: estimator=mean, errorbar=None, marker="o"
 - The drop-off and pick-up lines do not show much difference between them except for the line plot of the hour.
+- 
 #### pickup/dropoff hour
 ![](https://github.com/VOTUANANH01/Data-Visualize-and-Analysis/blob/7a8196fda09d6e0725f423066e2db7ef39a89ff1/picture/eda_pickup_hour%2Cdropoff_hour__with_tip_amount%20and%20total_amount%20.png) 
 - The lowest peak is 3 a.m. and then increases gradually to the highest peak at 8(pickup)/9(drop-off) am. After that hour, the average tip slowly reduces to the peak at 15 p.m.; from there, the mean tip rises to the peak at 17(pickup)/19(drop-off) and 19 (drop-off) p.m and goes down. => The top tip is that often the hour of people go to work and leave the workplace.
