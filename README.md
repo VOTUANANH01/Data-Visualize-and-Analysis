@@ -33,7 +33,7 @@
   ![](https://github.com/VOTUANANH01/Data-Visualize-and-Analysis/blob/a33db0842764b444c24b8ce706e5664a202fce62/picture/eda_continuous_variable.png)
 ### EDA caterigocal variables:
  ![](https://github.com/VOTUANANH01/Data-Visualize-and-Analysis/blob/a33db0842764b444c24b8ce706e5664a202fce62/picture/eda_categorical_variable.png)
-#### EDA dual caterigocal variables:
+#### EDA dual catergorical variables:
 ![](https://github.com/VOTUANANH01/Data-Visualize-and-Analysis/blob/a33db0842764b444c24b8ce706e5664a202fce62/picture/eda_dual_categorical_variable.png)
 ![](https://github.com/VOTUANANH01/Data-Visualize-and-Analysis/blob/a33db0842764b444c24b8ce706e5664a202fce62/picture/Countplot%20of%20pickup_hour.png)
 ![](https://github.com/VOTUANANH01/Data-Visualize-and-Analysis/blob/a33db0842764b444c24b8ce706e5664a202fce62/picture/Countplot%20of%20dropoff_hour.png)
