@@ -76,7 +76,7 @@
 ![](https://github.com/VOTUANANH01/Data-Visualize-and-Analysis/blob/7a8196fda09d6e0725f423066e2db7ef39a89ff1/picture/eda_pickup_month%2Cdropoff_month__with_tip_amount%20and%20total_amount%20.png)
 - In general, the line in both line plots shows an increase over the months. 
 - In January, the average tip and total are the lowest.
-- From January to May, the line of average tip is fluctuating. But from May on, the line steadily increases and rises to its highest peak in December. => The closer to the end of the year, the more earned tip.
+- From January to May, the line of average tip is fluctuating. But from May on, the line steadily increases and rises to its highest peak in November. => The closer to the end of the year, the more earned tip.
 - On the total amount line plot, the line at peak January start go down to the lowest peak March. From March, the line reaches the highest peak in August and then decreases. => From Fall to Winter is the period of gain the most money.
   
 #### pickup/dropoff weekday:
